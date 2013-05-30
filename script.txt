@@ -10,7 +10,10 @@ There are a couple of interactive slides in this presentation. If you could load
 
 I'll give you a couple of minutes to bring that up.
 
-### 03: 
+### 03: What are WebSockets?
+
+WebSockets, as explained by Wikipedia, are a web technology providing
+full-duplex communication channels over a single TCP connection.
 
 Questions:
 Has anybody here used WebSockets before?

@@ -14,6 +14,7 @@ get '/color' do
 end
 
 get '/color-report' do
+  headers['X-Frame-Options:'] = 'GOFORIT'
   erb :color_report
 end
 
