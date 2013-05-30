@@ -17,6 +17,17 @@
       document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
     </script>
 
+    <style type="text/css" media="all">
+      p.left {
+        display: block !important;
+        text-align: left;
+      }
+      p.right {
+        display: block !important;
+        text-align: right;
+      }
+    </style>
+
     <!--[if lt IE 9]>
     <script src="lib/js/html5shiv.js"></script>
     <![endif]-->
@@ -50,6 +61,11 @@
         <section>
           <section>
             <h2>What are WebSockets?</h2>
+
+            <blockquote class="fragment" cite="http://en.wikipedia.org/wiki/WebSocket">
+              <p class="left">&ldquo;A web technology providing full-duplex communication channels over a single TCP connection&rdquo;</p>
+              <p class="right">&mdash; <a href="http://en.wikipedia.org/wiki/WebSocket">Wikipedia: WebSocket</a></p>
+            </blockquote>
 
             <aside class="notes">
               <p>a web technology providing full-duplex communication channels over a single TCP connection</p>

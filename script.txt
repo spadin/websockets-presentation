@@ -1,0 +1,16 @@
+# WebSockets Presentation Script
+
+### 01: Title Screen [0:15]
+
+Today we're going to be presenting WebSockets and some ways you could use them. Feel free to ask questions at any point and I will do my best to answer them.
+
+### 02: Before we begin [02:00]
+
+There are a couple of interactive slides in this presentation. If you could load this page on your phone or laptop we could get through those slides a little more smoothly.
+
+I'll give you a couple of minutes to bring that up.
+
+### 03: 
+
+Questions:
+Has anybody here used WebSockets before?
